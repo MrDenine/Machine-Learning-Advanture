@@ -1,1 +1,1 @@
-# Data-Science-and-Machine-Learning-
+A complete daily plan to studying machine learning
